@@ -5,14 +5,15 @@ import { RouterLink } from 'vue-router'
 <template>
   <main class="text-white">
     <!-- Hero -->
-    <div class="h-screen flex flex-row md:flex-col items-center justify-center">
-      <div class="container h-4/5 flex flex-row items-center justify-around">
-        <div class="text">
-          <span
-            class="text-6xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-purple-500"
-          >
-            corKEYS
-          </span>
+    <div class="h-screen flex container flex-col items-center justify-center">
+      <div class="flex flex-row">
+        <div class="h-full flex flex-col justify-center">
+          <div class="">
+            <span
+              class="text-6xl w-auto bg-clip-text font-extrabold text-transparent bg-gradient-to-r from-red-500 to-purple-500"
+              >corKEYS</span
+            >
+          </div>
           <p class="mt-6">
             If your test's got you feeling blue, we've got the correction key
             for you!
@@ -24,10 +25,11 @@ import { RouterLink } from 'vue-router'
           class="w-1/2 animate-pulse"
         />
       </div>
-      <!-- Arrow -->
-      <div class="flex justify-center mt-10">
-        <fa :icon="['fas', 'angles-down']" size="2xl" class="animate-bounce" />
-      </div>
+      <fa
+        :icon="['fas', 'angles-down']"
+        size="2xl"
+        class="animate-bounce mt-12"
+      />
     </div>
 
     <!-- Courses -->
