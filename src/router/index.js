@@ -34,9 +34,7 @@ router.beforeEach((to, from, next) => {
   if (courseId) {
     const title = getTitle(courseId)
     document.title = 'corKEYS | ' + title
-  } else {
-    document.title = 'corKEYS'
-  }
+  } else {document.title = 'corKEYS'}
   next()
 })
 
