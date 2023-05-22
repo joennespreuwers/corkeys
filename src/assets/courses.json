@@ -2,100 +2,100 @@
   "analyse_1": {
     "courseTitle": "Analyse H1",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_1.pdf",
+    "coursePath": "/courses/analyse_1.pdf",
     "courseClass": "analyse_deel_1"
   },
   "analyse_2": {
     "courseTitle": "Analyse H2",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_2.pdf",
+    "coursePath": "/courses/analyse_2.pdf",
     "courseClass": "analyse_deel_1"
   },
   "analyse_3": {
     "courseTitle": "Analyse H3",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_3.pdf",
+    "coursePath": "/courses/analyse_3.pdf",
     "courseClass": "analyse_deel_1"
   },
   "analyse_4": {
     "courseTitle": "Analyse H4",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_4.pdf",
+    "coursePath": "/public/courses/analyse_4.pdf",
     "courseClass": "analyse_deel_1"
   },
   "analyse_5": {
     "courseTitle": "Analyse H5",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_5.pdf",
+    "coursePath": "/public/courses/analyse_5.pdf",
     "courseClass": "analyse_deel_1"
   },
 
   "analyse_6": {
     "courseTitle": "Analyse H6",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_6.pdf",
+    "coursePath": "/public/courses/analyse_6.pdf",
     "courseClass": "analyse_deel_2"
   },
   "analyse_7": {
     "courseTitle": "Analyse H7",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_7.pdf",
+    "coursePath": "/public/courses/analyse_7.pdf",
     "courseClass": "analyse_deel_2"
   },
   "analyse_8": {
     "courseTitle": "Analyse H8",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_8.pdf",
+    "coursePath": "/public/courses/analyse_8.pdf",
     "courseClass": "analyse_deel_2"
   },
   "analyse_9": {
     "courseTitle": "Analyse H9",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_9.pdf",
+    "coursePath": "/public/courses/analyse_9.pdf",
     "courseClass": "analyse_deel_2"
   },
   "analyse_10": {
     "courseTitle": "Analyse H10",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/analyse_10.pdf",
+    "coursePath": "/public/courses/analyse_10.pdf",
     "courseClass": "analyse_deel_2"
   },
 
   "complex_1": {
     "courseTitle": "Complex H1",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/complex_1.pdf",
+    "coursePath": "/public/courses/complex_1.pdf",
     "courseClass": "complex"
   },
   "complex_2": {
     "courseTitle": "Complex H2",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/complex_2.pdf",
+    "coursePath": "/public/courses/complex_2.pdf",
     "courseClass": "complex"
   },
   "complex_3": {
     "courseTitle": "Complex H3",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/complex_3.pdf",
+    "coursePath": "/public/courses/complex_3.pdf",
     "courseClass": "complex"
   },
 
   "matrix_1": {
     "courseTitle": "Matrix H1",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/matrix_1.pdf",
+    "coursePath": "/public/courses/matrix_1.pdf",
     "courseClass": "matrix"
   },
   "matrix_2": {
     "courseTitle": "Matrix H2",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/matrix_2.pdf",
+    "coursePath": "/public/courses/matrix_2.pdf",
     "courseClass": "matrix"
   },
   "matrix_3": {
     "courseTitle": "Matrix H3",
     "courseUrl": "iframe",
-    "coursePath": "../../public/courses/matrix_3.pdf",
+    "coursePath": "/public/courses/matrix_3.pdf",
     "courseClass": "matrix"
   }
 }
