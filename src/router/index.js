@@ -7,12 +7,12 @@ import courses from '../assets/courses.json'
 const routes = [
   {
     path: '/',
-    name: 'home',
+    name: 'Home',
     component: HomeView,
   },
   {
     path: '/courses/:courseId',
-    name: 'course',
+    name: 'Course',
     component: CourseView
   }
 ]
@@ -34,7 +34,7 @@ router.beforeEach((to, from, next) => {
   if (courseId) {
     const title = getTitle(courseId)
     document.title = 'corKEYS | ' + title
-  } else {document.title = 'corKEYS'}
+  } else {document.title = 'corKEYS | ' + to.name}
   next()
 })
 
