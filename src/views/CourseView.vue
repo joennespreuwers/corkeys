@@ -18,7 +18,14 @@ import homeButton from '../assets/components/homeButton.vue'
       width="100%"
       height="100%"
       frameborder="0"
-    ></object>
+    >
+      <iframe
+        v-bind:src="courseUrl"
+        height="100%"
+        width="100%"
+        allow="autoplay"
+      ></iframe>
+    </object>
   </body>
 </template>
 
