@@ -1,0 +1,232 @@
+{
+  "5_analyse_1": {
+    "courseTitle": "Analyse H1",
+    "courseUrl": "https://drive.google.com/file/d/1hT0IeM0QKIYsJBRbzy_HRyQCrBTjnoKw/preview",
+    "coursePath": "/courses/5_analyse_1.pdf",
+    "courseClass": "5_analyse_deel_1"
+  },
+  "5_analyse_2": {
+    "courseTitle": "Analyse H2",
+    "courseUrl": "https://drive.google.com/file/d/1kfjTb1EfIguwXWI0_7U56x7UMotbFFhx/preview",
+    "coursePath": "/courses/5_analyse_2.pdf",
+    "courseClass": "5_analyse_deel_1"
+  },
+  "5_analyse_3": {
+    "courseTitle": "Analyse H3",
+    "courseUrl": "https://drive.google.com/file/d/1_8UHNkshMajAudo5a995I1cRh-VUoo9F/preview",
+    "coursePath": "/courses/5_analyse_3.pdf",
+    "courseClass": "5_analyse_deel_1"
+  },
+  "5_analyse_4": {
+    "courseTitle": "Analyse H4",
+    "courseUrl": "https://drive.google.com/file/d/19MV4BSuTJ2yaOQzfGIQeRMXmt7xI6vEz/preview",
+    "coursePath": "/courses/5_analyse_4.pdf",
+    "courseClass": "5_analyse_deel_1"
+  },
+  "5_analyse_5": {
+    "courseTitle": "Analyse H5",
+    "courseUrl": "https://drive.google.com/file/d/1dw8x8GeBank-k2CQUuoXvFE5GpragI7T/preview",
+    "coursePath": "/courses/5_analyse_5.pdf",
+    "courseClass": "5_analyse_deel_1"
+  },
+
+  "5_analyse_6": {
+    "courseTitle": "Analyse H6",
+    "courseUrl": "https://drive.google.com/file/d/1lL4uuPW6ypKHhIBCCjciELKRDLR9TL6P/preview",
+    "coursePath": "/courses/5_analyse_6.pdf",
+    "courseClass": "5_analyse_deel_2"
+  },
+  "5_analyse_7": {
+    "courseTitle": "Analyse H7",
+    "courseUrl": "https://drive.google.com/file/d/1PbFAo45LJmkJPAoQO7ndsSYRg_A1dL8K/preview",
+    "coursePath": "/courses/5_analyse_7.pdf",
+    "courseClass": "5_analyse_deel_2"
+  },
+  "5_analyse_8": {
+    "courseTitle": "Analyse H8",
+    "courseUrl": "https://drive.google.com/file/d/1VYtea-9lysvXmknix4-Pu7Ob_mqOpbBc/preview",
+    "coursePath": "/courses/5_analyse_8.pdf",
+    "courseClass": "5_analyse_deel_2"
+  },
+  "5_analyse_9": {
+    "courseTitle": "Analyse H9",
+    "courseUrl": "https://drive.google.com/file/d/1Z8DjJUNpdTs-G77c8KVvKRZCQF-Dqafn/preview",
+    "coursePath": "/courses/5_analyse_9.pdf",
+    "courseClass": "5_analyse_deel_2"
+  },
+  "5_analyse_10": {
+    "courseTitle": "Analyse H10",
+    "courseUrl": "https://drive.google.com/file/d/1GUjED8FXD7Bgdie0Vo0dQ9dRbldlEPiK/preview",
+    "coursePath": "/courses/5_analyse_10.pdf",
+    "courseClass": "5_analyse_deel_2"
+  },
+
+  "5_complex_1": {
+    "courseTitle": "Complex H1",
+    "courseUrl": "https://drive.google.com/file/d/1sqOM1H2b9vP4UnemXfSX8ZN82uDIJ7fr/preview",
+    "coursePath": "/courses/5_complex_1.pdf",
+    "courseClass": "5_complex"
+  },
+  "5_complex_2": {
+    "courseTitle": "Complex H2",
+    "courseUrl": "https://drive.google.com/file/d/1dabHRsJ9RO-YMDYthuG-dTP9sdz4Cf_o/preview",
+    "coursePath": "/courses/5_complex_2.pdf",
+    "courseClass": "5_complex"
+  },
+  "5_complex_3": {
+    "courseTitle": "Complex H3",
+    "courseUrl": "https://drive.google.com/file/d/19eUOh9pEA8TAbpKIDFes43jIeuoRYCFa/preview",
+    "coursePath": "/courses/5_complex_3.pdf",
+    "courseClass": "5_complex"
+  },
+
+  "5_matrix_1": {
+    "courseTitle": "Matrix H1",
+    "courseUrl": "iframe",
+    "coursePath": "/courses/5_matrix_1.pdf",
+    "courseClass": "5_matrix"
+  },
+  "5_matrix_2": {
+    "courseTitle": "Matrix H2",
+    "courseUrl": "iframe",
+    "coursePath": "/courses/5_matrix_2.pdf",
+    "courseClass": "5_matrix"
+  },
+  "5_matrix_3": {
+    "courseTitle": "Matrix H3",
+    "courseUrl": "iframe",
+    "coursePath": "/courses/5_matrix_3.pdf",
+    "courseClass": "5_matrix"
+  },
+
+  "6_analyse_1": {
+    "courseTitle": "Analyse H1",
+    "courseUrl": "",
+    "coursePath": "/courses/6_analyse_1.pdf",
+    "courseClass": "6_analyse_deel_1"
+  },
+  "6_analyse_2": {
+    "courseTitle": "Analyse H2",
+    "courseUrl": "",
+    "coursePath": "/courses/6_analyse_2.pdf",
+    "courseClass": "6_analyse_deel_1"
+  },
+  "6_analyse_3": {
+    "courseTitle": "Analyse H3",
+    "courseUrl": "",
+    "coursePath": "/courses/6_analyse_3.pdf",
+    "courseClass": "6_analyse_deel_1"
+  },
+  "6_analyse_4": {
+    "courseTitle": "Analyse H4",
+    "courseUrl": "",
+    "coursePath": "/courses/6_analyse_4.pdf",
+    "courseClass": "6_analyse_deel_2"
+  },
+  "6_analyse_5": {
+    "courseTitle": "Analyse H5",
+    "courseUrl": "",
+    "coursePath": "/courses/6_analyse_5.pdf",
+    "courseClass": "6_analyse_deel_2"
+  },
+  "6_analyse_6": {
+    "courseTitle": "Analyse H6",
+    "courseUrl": "",
+    "coursePath": "/courses/6_analyse_6.pdf",
+    "courseClass": "6_analyse_deel_2"
+  },
+
+  "6_kansrekenen_1": {
+    "courseTitle": "Kansrekenen H1",
+    "courseUrl": "",
+    "coursePath": "/courses/6_kansrekeken_1.pdf",
+    "courseClass": "6_kansrekenen"
+  },
+  "6_kansrekenen_2": {
+    "courseTitle": "Kansrekenen H2",
+    "courseUrl": "",
+    "coursePath": "/courses/6_kansrekeken_2.pdf",
+    "courseClass": "6_kansrekenen"
+  },
+  "6_kansrekenen_3": {
+    "courseTitle": "Kansrekenen H3",
+    "courseUrl": "",
+    "coursePath": "/courses/6_kansrekeken_3.pdf",
+    "courseClass": "6_kansrekenen"
+  },
+  "6_kansrekenen_4": {
+    "courseTitle": "Kansrekenen H4",
+    "courseUrl": "",
+    "coursePath": "/courses/6_kansrekeken_4.pdf",
+    "courseClass": "6_kansrekenen"
+  },
+
+  "6_rijenreeks_1": {
+    "courseTitle": "Rijen en reeksen H1",
+    "courseUrl": "",
+    "coursePath": "/courses/6_rijenreeks_1.pdf",
+    "courseClass": "6_rijenreeks"
+  },
+  "6_rijenreeks_2": {
+    "courseTitle": "Rijen en reeksen H2",
+    "courseUrl": "",
+    "coursePath": "/courses/6_rijenreeks_2.pdf",
+    "courseClass": "6_rijenreeks"
+  },
+  "6_rijenreeks_3": {
+    "courseTitle": "Rijen en reeksen H3",
+    "courseUrl": "",
+    "coursePath": "/courses/6_rijenreeks_3.pdf",
+    "courseClass": "6_rijenreeks"
+  },
+
+  "6_ruimte_1": {
+    "courseTitle": "Ruimte H1",
+    "courseUrl": "",
+    "coursePath": "/courses/6_ruimte_1.pdf",
+    "courseClass": "6_ruimte"
+  },
+  "6_ruimte_2": {
+    "courseTitle": "Ruimte H2",
+    "courseUrl": "",
+    "coursePath": "/courses/6_ruimte_2.pdf",
+    "courseClass": "6_ruimte"
+  },
+  "6_ruimte_3": {
+    "courseTitle": "Ruimte H3",
+    "courseUrl": "",
+    "coursePath": "/courses/6_ruimte_3.pdf",
+    "courseClass": "6_ruimte"
+  },
+  "6_ruimte_4": {
+    "courseTitle": "Ruimte H4",
+    "courseUrl": "",
+    "coursePath": "/courses/6_ruimte_4.pdf",
+    "courseClass": "6_ruimte"
+  },
+
+  "6_statistiek_1": {
+    "courseTitle": "Statistiek H1",
+    "courseUrl": "",
+    "coursePath": "/courses/6_statistiek_1.pdf",
+    "courseClass": "6_statistiek"
+  },
+  "6_statistiek_2": {
+    "courseTitle": "Statistiek H2",
+    "courseUrl": "",
+    "coursePath": "/courses/6_statistiek_2.pdf",
+    "courseClass": "6_statistiek"
+  },
+  "6_statistiek_3": {
+    "courseTitle": "Statistiek H3",
+    "courseUrl": "",
+    "coursePath": "/courses/6_statistiek_3.pdf",
+    "courseClass": "6_statistiek"
+  },
+  "6_statistiek_4": {
+    "courseTitle": "Statistiek H4",
+    "courseUrl": "",
+    "coursePath": "/courses/6_statistiek_4.pdf",
+    "courseClass": "6_statistiek"
+  }
+}
