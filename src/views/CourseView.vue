@@ -30,7 +30,7 @@ import homeButton from '../assets/components/homeButton.vue'
 </template>
 
 <script>
-import courses from '../assets/courses.json'
+import courses from '../assets/db.json'
 
 export default {
   data() {

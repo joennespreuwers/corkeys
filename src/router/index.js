@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import CourseView from '../views/CourseView.vue'
-import courses from '../assets/courses.json'
+import courses from '../assets/db.json'
 
 
 const routes = [
@@ -13,7 +13,7 @@ const routes = [
   {
     path: '/courses/:courseId',
     name: 'Course',
-    component: CourseView
+    component: CourseView,
   }
 ]
 

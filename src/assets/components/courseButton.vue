@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import courses from '../courses.json'
+import courses from '../db.json'
 
 export default {
   props: {

@@ -35,19 +35,56 @@ import { RouterLink } from 'vue-router'
     <!-- Courses -->
     <div class="container flex items-center mt-12 mb-6 flex-col">
       <h1 class="text-4xl mb-2">Courses:</h1>
-      <courseButton
-        :courseClassFilter="'analyse_deel_1'"
-        class="flex flex-col"
-      />
-      <br />
-      <courseButton
-        :courseClassFilter="'analyse_deel_2'"
-        class="flex flex-col"
-      />
-      <br />
-      <courseButton :courseClassFilter="'complex'" class="flex flex-col" />
-      <br />
-      <courseButton :courseClassFilter="'matrix'" class="flex flex-col" />
+      <div class="flex flex-row justify-around text-center">
+        <div>
+          <h1>5th Year</h1>
+          <courseButton
+            :courseClassFilter="'5_analyse_deel_1'"
+            class="flex flex-col"
+          />
+          <br />
+          <courseButton
+            :courseClassFilter="'5_analyse_deel_2'"
+            class="flex flex-col"
+          />
+          <br />
+          <courseButton
+            :courseClassFilter="'5_complex'"
+            class="flex flex-col"
+          />
+          <br />
+          <courseButton :courseClassFilter="'5_matrix'" class="flex flex-col" />
+        </div>
+        <div>
+          <h1>6th Year</h1>
+          <courseButton
+            :courseClassFilter="'6_analyse_deel_1'"
+            class="flex flex-col"
+          />
+          <br />
+          <courseButton
+            :courseClassFilter="'6_analyse_deel_2'"
+            class="flex flex-col"
+          />
+          <br />
+          <courseButton
+            :courseClassFilter="'6_kansrekenen'"
+            class="flex flex-col"
+          />
+          <br />
+          <courseButton
+            :courseClassFilter="'6_rijenreeks'"
+            class="flex flex-col"
+          />
+          <br />
+          <courseButton :courseClassFilter="'6_ruimte'" class="flex flex-col" />
+          <br />
+          <courseButton
+            :courseClassFilter="'6_statistiek'"
+            class="flex flex-col"
+          />
+        </div>
+      </div>
     </div>
   </main>
 </template>
